@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Graduation</string>
+    <string name="title_questions_and_answers">知否问答</string>
+
+    <string name="title_search">搜索</string>
+    <string name="title_recommendation">推荐</string>
+    <string name="title_record">记录</string>
+    <string name="title_mine">我的</string>
+
+    <string name="question_title">问题好像找不到了...</string>
+    <string name="question_author">作者好像找不到了...</string>
+    <string name="question_answer">答案好像找不到了...</string>
+    <string name="show_tag">关键词找不到了...</string>
+    <string name="hot_question">大家都在看</string>
+    <string name="no_account">没有账号？</string>
+    <string name="input_question">请认真填写问题，要求简短直白</string>
+    <string name="add_tag">+话题（建议添加三个）</string>
+    <string name="confirm_and_agree">确认阅读并同意协议</string>
+    <string name="private_policy">《用户个人隐私协议》</string>
+    <string name="set_personal_tags">请选择你的个性标签</string>
+    <string name="choose_language">请选择语言</string>
+
+    <string name="phone">手机号</string>
+    <string name="message">短信验证码</string>
+    <string name="get_message">获取验证码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="confirm_register">确认注册</string>
+    <string name="register_now">立即注册</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="post_question">发布问题</string>
+    <string name="write_question">写问题</string>
+    <string name="login">登录</string>
+    <string name="logout">退出登录</string>
+
+    <string name="check">查看</string>
+    <string name="show">显示</string>
+    <string name="cancel">取消</string>
+    <string name="post">发布</string>
+    <string name="search">搜索</string>
+    <string name="next">下一步</string>
+    <string name="support">赞同</string>
+    <string name="already_support">已赞同</string>
+    <string name="answer">回答</string>
+    <string name="confirm">确认</string>
+    <string name="back">返回</string>
+
+    <string name="set_nickname">请设置昵称</string>
+    <string name="membership">会员</string>
+    <string name="count">个数</string>
+    <string name="my_follows">我的收藏</string>
+    <string name="my_questions">我的问题</string>
+    <string name="my_supports">我的赞同</string>
+    <string name="my_answers">我的回答</string>
+
+    <string name="life">生活</string>
+    <string name="common">常识</string>
+    <string name="study">学习</string>
+    <string name="country">国家</string>
+    <string name="technology">科技</string>
+    <string name="military">军事</string>
+    <string name="entertainment">娱乐</string>
+    <string name="politic">政治</string>
+    <string name="funny">搞笑</string>
+    <string name="computer">计算机</string>
+
+</resources>
